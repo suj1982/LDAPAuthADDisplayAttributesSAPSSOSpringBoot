@@ -1,0 +1,13 @@
+package LDAPAuthADDisplayAttributesSAPSSO;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LdapAuthAdDisplayAttributesSapssoSpringBootApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
